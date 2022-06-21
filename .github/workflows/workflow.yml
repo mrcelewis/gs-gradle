@@ -1,2 +1,0 @@
-- name: auto-renovate-pull-request-merge
-  uses: KeisukeYamashita/auto-renovate-pull-request-merge@v1
