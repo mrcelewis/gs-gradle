@@ -1,8 +1,2 @@
-on: pull_request
-jobs:
-  auto-merge:
-    - name: Merge
-      uses: KeisukeYamashita/auto-renovate-pull-request-merge@v1
-      with:
-        intervalSeconds: 10
-        timeoutSeconds: 30
+- name: auto-renovate-pull-request-merge
+  uses: KeisukeYamashita/auto-renovate-pull-request-merge@v1
