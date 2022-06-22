@@ -22,7 +22,7 @@
     "requiredStatusChecks": "null",
     "transitiveRemediation" : "true",
     "automerge": "true",
-    "automergeType": "branch",
+    "automergeType": "pr",
     "ignoreTests": true
     },
     "extends": ["github>whitesource/merge-confidence:beta"]
