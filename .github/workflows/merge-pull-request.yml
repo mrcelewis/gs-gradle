@@ -7,4 +7,3 @@ jobs:
       - uses: juliangruber/merge-pull-request-action@master
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
-          number: 11
