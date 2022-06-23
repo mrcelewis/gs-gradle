@@ -1,4 +1,4 @@
-name: Automatic pull request review
+name: automatic-pull-request-review
 on: [pull_request]
 jobs:
   automate-pullrequest-review:
