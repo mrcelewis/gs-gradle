@@ -27,7 +27,7 @@ dependencies {
     implementation 'com.google.guava:guava:31.1-jre'
     implementation 'com.google.guava:guava:31.1-jre'
     compile "log4j:log4j:1.2.17"
-    testImplementation "junit:junit:4.13.1"
+    testImplementation "junit:junit:4.13.2"
 }
 // end::dependencies[]
 
